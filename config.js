@@ -46,15 +46,15 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://www.youtube.com/feed/subscriptions',
-    },
-    {
-      id: '3',
       name: 'Mail HEG',
       icon: 'at-sign',
       link: 'https://m.hesge.ch/owa/#path=/mail/inbox',
+    },
+    {
+      id: '3',
+      name: 'YouTube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/feed/subscriptions',
     },
     {
       id: '4',
