@@ -11,8 +11,8 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
-  imageBackground: false,
+  name: 'Kethsana',
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -20,17 +20,17 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'What a Horrible Night to Have a Curse',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '47e411ffbdd69dd850b3cab65b018410',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '46.176480',
+  defaultLongitude: '6.140720',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -40,39 +40,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Gmail',
+      icon: 'mail',
+      link: 'https://mail.google.com/mail/u/1/#inbox',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'YouTube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/feed/subscriptions',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Mail HEG',
+      icon: 'at-sign',
+      link: 'https://m.hesge.ch/owa/#path=/mail/inbox',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com/home?lang=en',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Cyberlearn',
+      icon: 'key',
+      link: 'https://cyberlearn.hes-so.ch/',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Wikipedia',
+      icon: 'globe',
+      link: 'https://en.wikipedia.org/wiki/Main_Page',
     },
   ],
 
@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'book-open',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Mangadex',
+        link: 'https://mangadex.org/titles/feed',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Kaguya-sama',
+        link: 'https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Komi-san',
+        link: 'https://catmanga.org/series/komi',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Sono Bisque Doll',
+        link: 'https://catmanga.org/series/bisquedoll',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Emil',
+        link: 'https://goodsmileshop.com/en/CATEGORY-ROOT/Nendoroid/Nendoroid-NieR-Replicant-ver-1-22474487139-Emil/p/SQE_WD_00006?site=goodsmile-global&lang=en&utm_source=GSCPRODUCT&utm_medium=11690&utm_campaign=desktopsite',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'SHENZHENAUDIO',
+        link: 'https://shenzhenaudio.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Reddit',
+        link: 'https://www.reddit.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'DeepL',
+        link: 'https://www.deepl.com/translator',
       },
     ],
   },
