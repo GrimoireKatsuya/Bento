@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'What a Horrible Night to Have a Curse',
+  greetingNight: 'What a Horrible Night to Have a Curse,',
 
   // Weather
   weatherKey: '47e411ffbdd69dd850b3cab65b018410',
@@ -96,18 +96,18 @@ const CONFIG = {
         link: 'https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/',
       },
       {
-        name: 'Komi-san',
-        link: 'https://catmanga.org/series/komi',
+        name: 'ReadComicOnline',
+        link: 'https://readcomiconline.li/',
       },
       {
-        name: 'Sono Bisque Doll',
-        link: 'https://catmanga.org/series/bisquedoll',
+        name: 'M.A.L.',
+        link: 'https://myanimelist.net/topmanga.php',
       },
     ],
     secondList: [
       {
-        name: 'Emil',
-        link: 'https://goodsmileshop.com/en/CATEGORY-ROOT/Nendoroid/Nendoroid-NieR-Replicant-ver-1-22474487139-Emil/p/SQE_WD_00006?site=goodsmile-global&lang=en&utm_source=GSCPRODUCT&utm_medium=11690&utm_campaign=desktopsite',
+        name: 'crinacle',
+        link: 'https://crinacle.com/',
       },
       {
         name: 'SHENZHENAUDIO',
