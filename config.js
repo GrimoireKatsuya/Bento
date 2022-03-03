@@ -88,12 +88,12 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Mangadex',
-        link: 'https://mangadex.org/titles/feed',
+        name: 'Metacritic',
+        link: 'https://www.metacritic.com/',
       },
       {
-        name: 'Kaguya-sama',
-        link: 'https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/',
+        name: 'Rotten Tomatoes',
+        link: 'https://www.rottentomatoes.com/',
       },
       {
         name: 'ReadComicOnline',
@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://crinacle.com/',
       },
       {
-        name: 'SHENZHENAUDIO',
-        link: 'https://shenzhenaudio.com/',
+        name: 'LINSOUL',
+        link: 'https://www.linsoul.com/',
       },
       {
         name: 'Reddit',
