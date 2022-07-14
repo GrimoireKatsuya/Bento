@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail HEG',
       icon: 'at-sign',
-      link: 'https://m.hesge.ch/owa/#path=/mail/inbox',
+      link: 'https://outlook.office.com/mail/inbox/',
     },
     {
       id: '3',
